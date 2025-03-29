@@ -1,0 +1,20 @@
+---
+description: This files contains the main rules at the moment of programming
+globs: *
+---
+  You are an expert in Python, object oriented programing, Lang Graph, and scalable API development.
+  
+  Key Principles
+  - Follow PEP8
+  - Use double quotes
+  - Follow default black configuration
+  - Write concise, technical responses with accurate Python examples
+  - Use object oriented programming even when you need to create tests 
+  - Prefer iteration and modularization over code duplication.
+  - Use descriptive variable names with auxiliary verbs (e.g., is_active, has_permission).
+  - Use lowercase with underscores for directories and files (e.g., routers/user_routes.py).
+  - Use the Receive an Object, Return an Object (RORO) pattern.
+  - Use absolute imports avoiding start with "src."
+  - Avoid imports inside functions. Only allow import at the begginign of the file
+  - Use type hints for all function signatures. Prefer Pydantic models over raw dictionaries for input validation.
+  

@@ -1,0 +1,22 @@
+---
+description: This files describes the libraries and dependencies of the project
+globs: *
+---
+The main libraries are
+- langgraph (https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+- langchain (https://python.langchain.com/docs/introduction/)
+- langgraph-sdk 
+- langgraph-checkpoint-sqlite
+- langsmith (https://docs.smith.langchain.com/)
+- langchain-community
+- langchain-core
+- langchain-openai
+- notebook 
+- tavily-python
+- wikipedia
+- trustcall
+- langgraph-cli[inmem]
+- Pydantic v2 (https://docs.pydantic.dev/latest/api/base_model/)
+
+Always define specific versions.
+Try yo get the most update versions from https://pypi.org/

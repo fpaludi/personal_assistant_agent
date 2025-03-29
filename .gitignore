@@ -1,0 +1,6 @@
+**/.env
+**/venv
+**/.langgraph_api
+**/.langgraph_studio
+
+**/__pycache__
